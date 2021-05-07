@@ -44,8 +44,7 @@ function createPostObject(post) {
             <button onclick=\"editPostArticle(this)\"><i class="fas fa-edit"></i> Edit</button>
             <button onclick=\"deletePostArticle(this)\"><i class="fas fa-trash"></i> Delete</button>
         </article>`;
-        // need to escape characters
     return postOut;
 }
 
-export { addPost, createPostObject};
+export { addPost, createPostObject };
