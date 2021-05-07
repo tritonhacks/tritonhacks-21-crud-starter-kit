@@ -1,4 +1,4 @@
-import { addPost, createPostObject } from './addDialog.js';
+import { addPost, createPostObject } from './addPost.js';
 
 function init() {
 
