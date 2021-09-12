@@ -1,7 +1,7 @@
 # A not so CRUD-y hackathon tutorial
 
 Demo
-* https://totally-not-frito-lays.github.io/tritonhacks-crud/
+* https://totally-not-frito-lays.github.io/tritonhacks-crud/public/index.html
 
 Tutorial
 * https://docs.google.com/document/d/1aFrlZKbBUFlS8Jb2ICInxWNc_4gFklQwrBmZoX-mq3g/edit?usp=sharing
