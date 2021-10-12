@@ -1,6 +1,6 @@
 # A not so CRUD-y hackathon tutorial
 
-[Live Demo](https://totally-not-frito-lays.github.io/tritonhacks-21-crud/public/index.html)
+[Live Demo](https://tritonhacks.github.io/tritonhacks-21-crud/public/index.html)
 | [Recorded Demo](https://youtu.be/dQw4w9WgXcQ)
 | [Tutorial](https://docs.google.com/document/d/1aFrlZKbBUFlS8Jb2ICInxWNc_4gFklQwrBmZoX-mq3g/edit?usp=sharing)
 | [Starter Code](https://github.com/JIzabal/tritonhacks-crud-skeleton)
